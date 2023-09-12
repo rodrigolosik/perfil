@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Losik</h1>
-<h3 align="center">Welcome to my profile, and feel free to send me a message if you have any questions about anything over here! </h3>
+<h3 align="center">Welcome to my profile, and feel free to message me if you have any questions about anything over here! </h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rodrigolosik)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -28,4 +31,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigolosik&label=Profile%20views&color=blueviolet&style=flat" alt="rodrigolosik" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigolosik&show_icons=true&locale=en&layout=compact" alt="rodrigolosik" /></p>
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/rodrigolosik/?locale=en_US)
